@@ -99,13 +99,13 @@ This guide provides a comprehensive list of resources for Lightning Network node
 
 ## Node Management Tools
 
-### CLN Tools 
+### CLN Tools
 - [CLN Cheatsheet: Quick Reference for Core Lightning Commands](https://github.com/grubles/cln-cheatsheet)
 - [lnurl-commando](https://github.com/jb55/lnurl-commando) - An lnurl/lnaddress server that fetches invoices over commando
 - [CLBOSS: Automated Core Lightning Node Manager](https://github.com/ZmnSCPxj/clboss)
 - [Rune Workshop](https://jb55.com/runes) - A web UI for constructing commando auth runes
 - [c-lightning-REST](https://github.com/Ride-The-Lightning/c-lightning-REST) - REST APIs for c-lightning written with node.js
-- [circular](https://github.com/giovannizotta/circular) - Core Lightning plugin that helps routing nodes rebalance their channels 
+- [circular](https://github.com/giovannizotta/circular) - Core Lightning plugin that helps routing nodes rebalance their channels
 - [consolidator](https://github.com/daywalker90/consolidator/) - Core lightning (CLN) plugin to help consolidate your UTXO's
 
 ### LND Tools
